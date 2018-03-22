@@ -221,7 +221,7 @@ Joel Martinez Camacho
       51
     </td>
     <td>
-      65%
+      65%s
     </td>
   </tr>
 
